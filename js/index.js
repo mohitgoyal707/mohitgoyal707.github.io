@@ -1,0 +1,1 @@
+window.location.replace("market://details?id=com.application.zomato");
