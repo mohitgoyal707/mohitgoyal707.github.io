@@ -1,2 +1,2 @@
-let url = "intent://gold_home#Intent;scheme=zomato;package=com.application.zomato;end";
+let url = "intent://open?link_click_id=791672811494912240";
 window.location.replace(url);
