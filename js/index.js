@@ -1,2 +1,2 @@
-let url = "intent://open?link_click_id=791672811494912240";
+let url = "market://details?id=com.application.zomato&referrer=zomato%3A%2F%2Fgold_home";
 window.location.replace(url);
