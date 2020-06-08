@@ -1,3 +1,2 @@
-//let url = "market://details?id=com.application.zomato&referrer=zomato%3A%2F%2Fgold_home";
-let url = "https://www.google.com";
+let url = "https://bnc.lt/contactless?deeplink_path=https%3A%2F%2Fzoma.to%2Fqr%2FABCDEFGH";
 window.location.replace(url);
